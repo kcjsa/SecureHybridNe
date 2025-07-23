@@ -46,12 +46,8 @@ AES-256暗号化とTCP/UDPハイブリッド送信を組み合わせ、高速か
 ### 必要環境
 
 - Linux OS（動作未検証の環境は動作保証対象外です）  
-- Python 3.8以上  
-- 必須Pythonパッケージをインストールしてください：
-
-```bash
-pip install cryptography pygame
-
+- Python 3.8以上
+  
 linux(ubuntu用)のsystem構築用ファイルは一緒に入れておきます。
 
 ----------------
@@ -97,10 +93,5 @@ Linux OS (Unverified environments are not officially supported)
 
 Python 3.8 or higher
 
-Please install the required Python packages:
-
-bash
-
-pip install cryptography pygame
 A Linux (Ubuntu) system setup script is included in the repository.
 
