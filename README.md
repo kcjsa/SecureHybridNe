@@ -86,6 +86,7 @@ Exemption from the obligation to publish modifications
 Minimal licensing granted for commercial or enterprise use
 
 For inquiries about special usage licenses, please contact us via Discord.
+discord https://discord.gg/xSgcs4y2jw
 
 Installation & Usage
 Requirements
