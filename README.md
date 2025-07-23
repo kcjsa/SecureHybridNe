@@ -37,7 +37,7 @@ AES-256暗号化とTCP/UDPハイブリッド送信を組み合わせ、高速か
 - 改変の公開義務の免除  
 - 業務利用における最小限のライセンス付与
 
-特別利用許諾については、[Discord]()までお問い合わせください。
+特別利用許諾については、[Discord](https://discord.gg/xSgcs4y2jw)までお問い合わせください。
 
 ---
 
@@ -54,44 +54,44 @@ linux(ubuntu用)のsystem構築用ファイルは一緒に入れておきます�
 English
 ----------------
 SecureHybridNet (Linux Only)
-SecureHybridNet is a project that implements a secure communication protocol designed specifically for Linux environments.
-By combining AES-256 encryption with hybrid TCP/UDP transmission, it enables high-speed and reliable file transfer.
+SecureHybridNet is a project that implements a secure communication protocol designed for Linux environments.
+By combining AES-256 encryption with hybrid TCP/UDP transmission, it achieves fast and reliable file transfer.
 
 Supported Environment
 OS: Linux (Designed for major distributions like Ubuntu, Debian, Fedora, etc.)
 
-Python: 3.8 or higher
+Python: Version 3.8 or higher
 
 Key Features
 Strong data encryption using AES-256
 
-Efficient data transfer through hybrid TCP and UDP communication
+Efficient data transmission with a hybrid TCP and UDP communication model
 
-UDP retransmission control for improved reliability
+Reliable delivery through retransmission control of UDP packets
 
-Implemented in Python (GUI uses Pygame)
+Fully implemented in Python (GUI built with Pygame)
 
 Optimized for Linux network environments
 
 License
 This software is provided under the Mozilla Public License 2.0 (MPL 2.0).
 
-For details, please refer to the LICENSE file.
+For details, please see the LICENSE file.
 
 About Special Usage License
-Under a separate agreement with the author (kcjsa), special usage is permitted under the following conditions:
+A separate agreement with the author (kcjsa) may allow special usage under the following conditions:
 
 Exemption from the obligation to publish modifications
 
-Minimal licensing granted for commercial use
+Minimal licensing granted for commercial or enterprise use
 
 For inquiries about special usage licenses, please contact us via Discord.
 
 Installation & Usage
 Requirements
-Linux OS (Unverified environments are not officially supported)
+Linux OS (Other environments are not officially supported)
 
-Python 3.8 or higher
+Python 3.8 or later
 
-A Linux (Ubuntu) system setup script is included in the repository.
+A system setup script for Linux (Ubuntu) is included in this repository.
 
